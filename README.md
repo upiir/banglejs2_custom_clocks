@@ -7,6 +7,8 @@ Custom Clocks for the Bangle.js 2 Smart Watches
 
 Links from the video:
 - Bangle.js 2 about page: https://www.espruino.com/Bangle.js2
+- Espruino IDE: https://www.espruino.com/ide/
+- Photopea: https://www.photopea.com/
 - App loader: https://banglejs.com/apps/?
 - Info about custom fonts: https://www.espruino.com/Fonts
 - Custom font creator: http://ebfc.mattbrailsford.com/
