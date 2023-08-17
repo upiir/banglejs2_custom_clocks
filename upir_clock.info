@@ -1,0 +1,6 @@
+require("Storage").write("upir_clock.info",{
+  "id":"upir_clock",
+  "name":"Upir Clock",
+  "type":"clock",
+  "src":"upir_clock.app.js"
+});
