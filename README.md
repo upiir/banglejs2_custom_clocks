@@ -2,7 +2,7 @@
 Custom Clocks for the Bangle.js 2 Smart Watches
 
 
-**YOUTUBE VIDEO:**
+**YOUTUBE VIDEO: https://youtu.be/4M407AYPeH0**
 
 
 Links from the video:
